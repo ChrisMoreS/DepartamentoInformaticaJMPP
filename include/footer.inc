@@ -38,7 +38,7 @@
             </div>
         </div>
         <div>
-            <p class="text-sm text-center">Este sitio web ha sido hecho por <br><a href="#" class="font-medium">Christian Moreno</a></p>
+            <p class="text-sm text-center">Esta web está hecha por <br><a href="#" class="font-medium">Christian Moreno</a></p>
         </div>
     </footer>
 </body>
