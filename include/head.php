@@ -20,23 +20,31 @@
     </script>
 </head>
 <body>
-    <header class="fixed top-0 left-0 flex justify-between w-full p-2 bg-neutral-300 bg-opacity-75">
+    <header class="fixed top-0 left-0 flex justify-between w-full p-2 bg-white drop-shadow-sm">
         <div class="w-fit justify-items-start">
             <img src="./style_sources/img/logos/logoIES-png.png" class="h-8">
         </div>
-        <div class="hidden">
-
-        </div>
         <div class="w-fit flex justify-end">
-            <div id="hamburger" onclick="showMenu();">
+            <div id="hamburger" class="cursor-pointer block" onclick="openNav();">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
                 </svg>
             </div>
-            <div id="FSMenu" class="hidden top-0 left-0 bg-red-900 h-screen w-screen">
-                <div id="exitFSMenu" class="fixed top-2 right-2">
-
+            <div id="FSMenu" class="fixed w-screen h-screen bg-neutral-100 text-cultured top-0 left-0 translate-x-full ease-in-out duration-75">
+                <div id="exitFSMenu" class="fixed top-2 right-2 cursor-pointer" onclick="closeNav();">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                </div>
+                <div class="w-screen h-screen flex flex-col justify-evenly items-center">
+                    <a href="#">Noticias</a>
+                    <a href="#">Oferta Educativa</a>
+                    <a href="#">Proyecto Alumnos</a>
+                    <a href="#">Álbum</a>
+                    <a href="#">Evagd</a>
+                    <a href="#">Pincel Ekade</a>
                 </div>
             </div>
         </div>
+        
     </header>

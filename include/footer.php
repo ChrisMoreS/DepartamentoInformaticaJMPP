@@ -22,24 +22,25 @@
         <div class="mb-5">
             <h3 class="text-sm font-bold uppercase mb-1">Acceso Rápido</h3>
             <div >
-                <p class="text-xs font-semibold underline mb-0.5"><a href="#">Noticias</a></p>
-                <p class="text-xs font-semibold underline mb-0.5"><a href="#">Oferta Educativa</a></p>
-                <p class="text-xs font-semibold underline mb-0.5"><a href="#">Proyecto Alumnos</a></p>
-                <p class="text-xs font-semibold underline mb-0.5"><a href="#">Álbum</a></p>
+                <p class="text-xs font-normal underline mb-0.5"><a href="#">Noticias</a></p>
+                <p class="text-xs font-normal underline mb-0.5"><a href="#">Oferta Educativa</a></p>
+                <p class="text-xs font-normal underline mb-0.5"><a href="#">Proyecto Alumnos</a></p>
+                <p class="text-xs font-normal underline mb-0.5"><a href="#">Álbum</a></p>
             </div>
         </div>
         <div class="mb-5">
             <h3 class="text-sm font-bold uppercase mb-1">Oferta 2022/2023</h3>
             <div >
-                <p class="text-xs font-semibold underline mb-1.5"><a href="#">Ciclo Medio de Sistemas Microinformáticos y Redes</a></p>
-                <p class="text-xs font-semibold underline mb-1.5"><a href="#">Ciclo Superior Desarrollo de Administración de Sistemas Informáticos en Red</a></p>
-                <p class="text-xs font-semibold underline mb-1.5"><a href="#">Ciclo Superior Desarrollo de Aplicaciones Web</a></p>
-                <p class="text-xs font-semibold underline mb-1.5"><a href="#">Curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información</a></p>
+                <p class="text-xs font-normal underline mb-1.5"><a href="https://www.gobiernodecanarias.org/cmsweb/export/sites/educacion/web/formacion_profesional/descargas/3_1/Informatica_y_comunicaciones/SistemasMicroinformaticosRedes15.pdf">Ciclo Medio de Sistemas Microinformáticos y Redes</a></p>
+                <p class="text-xs font-normal underline mb-1.5"><a href="https://www.gobiernodecanarias.org/cmsweb/export/sites/educacion/web/formacion_profesional/descargas/3_1/Informatica_y_comunicaciones/AdministracionSistemasInformaticosRedFO15.pdf">Ciclo Superior Desarrollo de Administración de Sistemas Informáticos en Red</a></p>
+                <p class="text-xs font-normal underline mb-1.5"><a href="https://www.gobiernodecanarias.org/cmsweb/export/sites/educacion/web/formacion_profesional/descargas/3_1/Informatica_y_comunicaciones/DesarrolloAplicacionesWebFO15.pdf">Ciclo Superior Desarrollo de Aplicaciones Web</a></p>
+                <p class="text-xs font-normal underline mb-1.5"><a href="https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/ciberseguridad-entornos-tecnologias-informacion.html">Curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información</a></p>
             </div>
         </div>
         <div>
             <p class="text-sm text-center">Esta web está hecha por <br><a href="#" class="font-medium">Christian Moreno</a></p>
         </div>
     </footer>
+    <script src="./js/index.js"></script>
 </body>
 </html>
