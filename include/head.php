@@ -30,7 +30,7 @@
                     <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
                 </svg>
             </div>
-            <div id="FSMenu" class="fixed w-screen h-screen bg-neutral-100 text-cultured top-0 left-0 translate-x-full ease-in-out duration-75">
+            <div id="FSMenu" class="fixed w-screen h-screen bg-neutral-100 text-cultured top-0 left-0 translate-x-full ease-in-out">
                 <div id="exitFSMenu" class="fixed top-2 right-2 cursor-pointer" onclick="closeNav();">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
