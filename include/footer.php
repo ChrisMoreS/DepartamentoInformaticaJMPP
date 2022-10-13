@@ -1,4 +1,4 @@
-    <footer class="flex flex-col p-3">
+    <footer class="flex flex-col p-4 bg-gray-300">
         <div class="mb-5">
             <h3 class="text-sm font-bold uppercase mb-1">Contacto</h3>
             <div >
@@ -38,7 +38,7 @@
             </div>
         </div>
         <div>
-            <p class="text-sm text-center">Esta web está hecha por <br><a href="#" class="font-medium">Christian Moreno</a></p>
+            <p class="text-sm text-center">Esta web está hecha por <a href="#" class="font-medium">Christian Moreno</a></p>
         </div>
     </footer>
     <script src="./js/index.js"></script>
