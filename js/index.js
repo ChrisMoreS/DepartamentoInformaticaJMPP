@@ -10,3 +10,4 @@ const closeNav = () => {
     document.getElementById('FSMenu').classList.add('translate-x-full')
     document.getElementById('hamburger').classList.add('block')
 }
+setInterval(function(){location.reload(true);}, 10000);
