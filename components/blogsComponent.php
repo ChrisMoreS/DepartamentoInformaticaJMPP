@@ -58,7 +58,7 @@
         </div>
     </div>
     <div class="w-full flex justify-end">
-        <button class="text-xs self-end mr-3 mb-2">Ver todos</button>
+        <a class="text-xs self-end mr-3 mb-2" href="./pages/blogs.php">Ver todos</a>
     </div>
     <hr class="w-screen h-1 bg-cyan-500">
 </div>

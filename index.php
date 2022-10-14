@@ -1,5 +1,5 @@
 <?php
-    include("./include/head.php");
+    include("./include/header.php");
 ?>
 <div class="mt-36 mb-32 flex flex-col justify-center text-center">
     <h1 class="font-semibold text-xl mb-1">Departamento de Informatica</h1>

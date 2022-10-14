@@ -28,6 +28,3 @@ const closeNav = () => {
     document.getElementById('hamburger').classList.add('block')
     enableScroll()
 }
-
-
-setInterval(function(){location.reload(true);}, 10000);
