@@ -44,7 +44,7 @@
             </div>
         </div>
         <div class="w-20 flex justify-center">
-            <img src="./style_sources/img/logos/logoIES-png.png" class="h-8">
+            <img src="../style_sources/img/logos/logoIES-png.png" class="h-8">
         </div>
         <div class="w-20 flex justify-end">
             <button>
