@@ -41,6 +41,8 @@
             <p class="text-sm text-center">Esta web está hecha por <a href="#" class="font-medium">Christian Moreno</a></p>
         </div>
     </footer>
-    <script src="../js/index.js"></script>
+    <script src="js/index.js"></script>
+    <script src="js/tiny.js"></script>
+    <script src="js/quill.js"></script>
 </body>
 </html>

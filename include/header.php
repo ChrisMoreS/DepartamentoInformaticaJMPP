@@ -1,12 +1,17 @@
+<?php
+    
+?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../style_sources/css/index.css">
+    <base href="./">
+    <link rel="stylesheet" href="style_sources/css/index.css">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+    <script src="jsLibraries/tinymce/tinymce.min.js"></script>
     <title>Departamento Informatica JMPP</title>
     <script>
         tailwind.config = {
@@ -44,7 +49,7 @@
             </div>
         </div>
         <div class="w-20 flex justify-center">
-            <img src="./style_sources/img/logos/logoIES-png.png" class="h-8">
+            <img src="style_sources/img/logos/logoIES-png.png" class="h-8">
         </div>
         <div class="w-20 flex justify-end">
             <button>
