@@ -42,7 +42,6 @@
         </div>
     </footer>
     <script src="js/index.js"></script>
-    <script src="js/tiny.js"></script>
     <script src="js/quill.js"></script>
 </body>
 </html>

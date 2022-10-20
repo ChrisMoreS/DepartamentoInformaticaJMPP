@@ -1,6 +1,5 @@
 <div class="mt-20 mx-4">
-    <form action="POST">
-        <textarea id="tinyContent"></textarea>
+    <form action="" method="post">
+        <textarea id="quillContent"></textarea>
     </form>
 </div>
-<div id="quillContent"></div>

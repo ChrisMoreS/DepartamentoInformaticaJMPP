@@ -1,4 +1,4 @@
-import Quill from './core';
+import Quill from 'core';
 
 import { AlignClass, AlignStyle } from './formats/align';
 import { DirectionAttribute, DirectionClass, DirectionStyle } from './formats/direction';
