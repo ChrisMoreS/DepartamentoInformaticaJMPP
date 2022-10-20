@@ -41,6 +41,10 @@
             <p class="text-sm text-center">Esta web está hecha por <a href="#" class="font-medium">Christian Moreno</a></p>
         </div>
     </footer>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jodit/3.18.9/jodit.es2018.min.js"></script>
+    <script src="https://unpkg.com/flowbite@1.5.3/dist/flowbite.js"></script>
     <script src="js/index.js"></script>
     <script src="js/quill.js"></script>
 </body>

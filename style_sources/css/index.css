@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#editor {
+    --jd-color-background-default: #000;
+    --jd-color-border: #ffffff;
+    --jd-color-panel: #ffffff;
+    --jd-color-icon: #000000;
+    }
