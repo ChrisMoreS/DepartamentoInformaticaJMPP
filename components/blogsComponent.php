@@ -60,5 +60,5 @@
     <div class="w-full flex justify-end">
         <a class="text-xs text-end mr-4 mb-2" href="noticias.php">Ver todos</a>
     </div>
-    <hr class="w-screen h-1 bg-cyan-500">
+    <hr class="w-screen border border-cyan-500">
 </div>

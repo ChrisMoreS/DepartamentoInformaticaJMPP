@@ -1,4 +1,4 @@
-const editor = Jodit.make("textarea#editor", {
+const editor = Jodit.make("textarea#editorEntrada", {
     "uploader": {
         "insertImageAsBase64URI": true
     },
@@ -25,4 +25,5 @@ const editor = Jodit.make("textarea#editor", {
     "showCharsCounter": false,
     "showWordsCounter": false,
     "showXPathInStatusbar": false,
+    "saveModeInStorage": true,
 });

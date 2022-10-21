@@ -1,4 +1,4 @@
-    <footer class="flex flex-col p-4 bg-neutral-200">
+    <footer class="mt-5 flex flex-col p-4 bg-neutral-200">
         <div class="mb-5">
             <h3 class="text-sm font-bold uppercase mb-1">Contacto</h3>
             <div >
@@ -46,6 +46,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jodit/3.18.9/jodit.es2018.min.js"></script>
     <script src="https://unpkg.com/flowbite@1.5.3/dist/flowbite.js"></script>
     <script src="js/index.js"></script>
-    <script src="js/quill.js"></script>
+    <script src="js/jodit.js"></script>
 </body>
 </html>
