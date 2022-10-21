@@ -1,22 +1,19 @@
 <?php
-    include('blogUtils/addpost.php');
-    include('blogUtils/editpost.php');
-    include('blogUtils/deletepost.php');
-    include('include/header.php');
+    include('./include/header.php');
 ?>
 
     <div class="mt-16 mb-5">
         <h1 class="text-lg text-center uppercase mb-10">Blogs</h1>
-        <div>
-            <button class="" onclick="openElement('addPost');">Agregar entrada</button>
+        <div class="mx-4 mb-1">
+            <button class="border border-gray-300 p-1.5 rounded-lg mr-2 text-sm bg-gray-50 focus:ring-gray-500 focus:border-gray-500" onclick="openElement('addPost');">Agregar entrada</button>
         </div>
         <hr class="w-screen border border-cyan-500">
-        <div class="mt-1.5 flex overflow-x-scroll">
-            <p class="border border-gray-500 p-1.5 rounded-lg mr-2 text-sm">Todas</p>
-            <p class="border border-gray-500 p-1.5 rounded-lg mr-2 text-sm">ASIR</p>
-            <p class="border border-gray-500 p-1.5 rounded-lg mr-2 text-sm">DAW</p>
-            <p class="border border-gray-500 p-1.5 rounded-lg mr-2 text-sm">CETI</p>
-            <p class="border border-gray-500 p-1.5 rounded-lg mr-2 text-sm">DAM</p>
+        <div class="mx-4 mt-1 flex overflow-x-scroll">
+            <p class="border border-gray-300 p-1.5 rounded-lg mr-2 text-sm bg-gray-50 focus:ring-gray-500 focus:border-gray-500">Todas</p>
+            <p class="border border-gray-300 p-1.5 rounded-lg mr-2 text-sm bg-gray-50 focus:ring-gray-500 focus:border-gray-500">ASIR</p>
+            <p class="border border-gray-300 p-1.5 rounded-lg mr-2 text-sm bg-gray-50 focus:ring-gray-500 focus:border-gray-500">DAW</p>
+            <p class="border border-gray-300 p-1.5 rounded-lg mr-2 text-sm bg-gray-50 focus:ring-gray-500 focus:border-gray-500">CETI</p>
+            <p class="border border-gray-300 p-1.5 rounded-lg mr-2 text-sm bg-gray-50 focus:ring-gray-500 focus:border-gray-500">DAM</p>
         </div>
     </div>
     <div class="flex flex-wrap justify-between mx-4 my-3.5">
@@ -79,5 +76,8 @@
     </div>
 
 <?php
-    include('include/footer.php');
+    include('./blogUtils/addpost.php');
+    include('./blogUtils/editpost.php');
+    include('./blogUtils/deletepost.php');
+    include('./include/footer.php');
 ?>

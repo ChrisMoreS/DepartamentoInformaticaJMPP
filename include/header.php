@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <base href="./">
+    <base href="/Departamentoinformaticajmpp/">
     <link rel="stylesheet" href="style_sources/css/index.css">
     <link rel="stylesheet" href="https://unpkg.com/flowbite@1.5.3/dist/flowbite.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jodit/3.18.9/jodit.es2018.min.css"/>
     <title>Departamento Informatica JMPP</title>
 </head>
 <body>
-    <header class="fixed top-0 left-0 flex justify-between w-full px-4 py-2 bg-white drop-shadow-sm">
+    <header class="fixed top-0 left-0 flex justify-between w-full px-4 py-2 bg-white drop-shadow-sm z-1">
         <div class="w-20 flex justify-start">
             <div id="hamburger" class="cursor-pointer" onclick="openElement('pagesMenu');">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8">
