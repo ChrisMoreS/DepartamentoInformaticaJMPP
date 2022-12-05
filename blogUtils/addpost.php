@@ -5,7 +5,7 @@
         </svg>
     </div>
     <h1 class="text-center text-lg mb-5">Añadir una entrada</h1>
-    <form class="flex flex-col" action="" method="post">
+    <form class="flex flex-col" action="addpost.php" method="post">
         <div class="mb-4">                    
             <label class="block mb-2 text-sm font-medium text-gray-900" for="addPostImage">Portada</label>
             <input class="block w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 cursor-pointer focus:outline-none" id="addPostImage" type="file">
